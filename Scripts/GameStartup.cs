@@ -4,8 +4,6 @@ using UnityEngine;
 
 namespace Bibyter.Multitank
 {
-   
-
     public class GameStartup : MonoBehaviour
     {
         public Transform tank;
